@@ -9,7 +9,6 @@ This repo contains the script and code for the Praelexis technical assessment.
 
 * usa                                      - jpg used as mask in the analysis.
 
-* Assessment - Kaggle Data Science role    - pdf copy of the assessment.
 
 
 Contact: qudsiyabrey@gmail.com
